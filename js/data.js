@@ -149,42 +149,35 @@
 				"enname:'doudizhu',"+
 				"name:'武侠小说(Kinghost)',"+
 				"url:'https://www.boog.ga/',"+
-				"asc :2"+
+				"asc :3"+
 			"},{"+
 				"appid:'10204',"+
 				"icon:'internet.png',"+
 				"enname:'doudizhu',"+
 				"name:'邮局(Github)',"+
 				"url:'http://mail.pu.cx/',"+
-				"asc :2"+
+				"asc :4"+
 			"},{"+
 				"appid:'10205',"+
 				"icon:'internet.png',"+
 				"enname:'doudizhu',"+
 				"name:'我的米表(Github)',"+
 				"url:'http://kkkk,info/',"+
-				"asc :2"+
+				"asc :5"+
 			"},{"+
 				"appid:'10206',"+
 				"icon:'internet.png',"+
 				"enname:'doudizhu',"+
 				"name:'VIP视频(香港)',"+
 				"url:'http://vip.2345.ltd/',"+
-				"asc :2"+
+				"asc :6"+
 			"},{"+
 				"appid:'10207',"+
 				"icon:'internet.png',"+
 				"enname:'doudizhu',"+
-				"name:'短网址(CF)',"+
-				"url:'http://11.wf/',"+
-				"asc :2"+
-			"},{"+
-				"appid:'10208',"+
-				"icon:'internet.png',"+
-				"enname:'doudizhu',"+
 				"name:'免费空间(香港)',"+
 				"url:'http://free.444.info/',"+
-				"asc :2"+
+				"asc :7"+
 			"}]",
 			asc :2
 		},
@@ -213,7 +206,7 @@
 				"enname:'doudizhu',"+
 				"name:'Skywq.com(Github)',"+
 				"url:'http://skywq.com/',"+
-				"asc :2"+
+				"asc :3"+
 			"}]",
 			asc :3
 		},
@@ -242,14 +235,14 @@
 				"enname:'doudizhu',"+
 				"name:'桌面666.vin(Github)',"+
 				"url:'http://666.vin/',"+
-				"asc :2"+
+				"asc :3"+
 			"},{"+
 				"appid:'10404',"+
 				"icon:'home.png',"+
 				"enname:'doudizhu',"+
 				"name:'桌面ffff.life(Github)',"+
 				"url:'http://ffff.life/',"+
-				"asc :2"+
+				"asc :4"+
 			"},{"+
 				"appid:'10405',"+
 				"icon:'home.png',"+
@@ -263,14 +256,14 @@
 				"enname:'doudizhu',"+
 				"name:'带音乐9b9.net(Github)',"+
 				"url:'http://9b9.net/',"+
-				"asc :2"+
+				"asc :5"+
 			"},{"+
 				"appid:'10406',"+
 				"icon:'home.png',"+
 				"enname:'doudizhu',"+
 				"name:'网址444.info(Github)',"+
 				"url:'http://444.info/',"+
-				"asc :2"+
+				"asc :6"+
 			"}]",
 			asc :4
 		},
@@ -299,14 +292,14 @@
 				"enname:'doudizhu',"+
 				"name:'性感诱惑(Github)',"+
 				"url:'http://pic.orgx.ga/',"+
-				"asc :2"+
+				"asc :3"+
 			"},{"+
 				"appid:'10504',"+
 				"icon:'pictures.gif',"+
 				"enname:'doudizhu',"+
 				"name:'图床(free.fr)',"+
 				"url:'https://pic.cloud.eu.org/',"+
-				"asc :2"+
+				"asc :4"+
 			"}]",
 			asc:5
 		},
@@ -335,31 +328,123 @@
 				"enname:'doudizhu',"+
 				"name:'音乐导航yyy.ink(香港)',"+
 				"url:'http://yyy.ink/',"+
-				"asc :2"+
+				"asc :3"+
 			"}]",
 			asc:6
 		},
 		'Clock':{
 			appid:'10700',
-			icon:'time.png',
-			name:'时钟',
+			icon:'tool.png',
+			name:'小工具',
 			url:'http://www.free163.com/',
+			sonMenu:"[{"+
+				"appid:'10701',"+
+				"icon:'internet.png',"+
+				"enname:'doudizhu',"+
+				"name:'短网址(CF)',"+
+				"url:'http://11.wf/',"+
+				"asc :1"+
+			"},{"+
+				"appid:'10702',"+
+				"icon:'tool.png',"+
+				"enname:'doudizhu',"+
+				"name:'在线代理(Github)',"+
+				"url:'https://goproxy.asia.ga/',"+
+				"asc :2"+
+			"},{"+
+				"appid:'10703',"+
+				"icon:'tool.png',"+
+				"enname:'doudizhu',"+
+				"name:'Github加速(Github)',"+
+				"url:'https://git.asia.ga/',"+
+				"asc :3"+
+			"},{"+
+				"appid:'10704',"+
+				"icon:'tool.png',"+
+				"enname:'doudizhu',"+
+				"name:'大小写转换(Github)',"+
+				"url:'http://tools.444.info/dx/',"+
+				"asc :4"+
+			"},{"+
+				"appid:'10705',"+
+				"icon:'tool.png',"+
+				"enname:'doudizhu',"+
+				"name:'繁简转换(Github)',"+
+				"url:'http://tools.444.info/fj/',"+
+				"asc :5"+
+			"},{"+
+				"appid:'10706',"+
+				"icon:'tool.png',"+
+				"enname:'doudizhu',"+
+				"name:'迅雷地址转换(Github)',"+
+				"url:'http://tools.444.info/dlink/',"+
+				"asc :6"+
+			"}]",
 			asc:7
 		},
 		'yule':{
 			appid:'10800',
-			icon:'folder_o.png',
-			name:'娱乐',
+			icon:'game.gif',
+			name:'游戏娱乐',
 			url:'http://www.free163.com/',
-			sonMenu:"[]",
+			sonMenu:"[{"+
+				"appid:'10801',"+
+				"icon:'game.gif',"+
+				"enname:'doudizhu',"+
+				"name:'小游戏(Github)',"+
+				"url:'http://game.444.info/',"+
+				"asc :1"+
+			"},{"+
+				"appid:'10802',"+
+				"icon:'game.gif',"+
+				"enname:'doudizhu',"+
+				"name:'清凉小空调(CF)',"+
+				"url:'https://air.444.info/',"+
+				"asc :2"+
+			"}]",
 			asc:8
 		},
 		'mangguo':{
-			appid:'10900',
-			icon:'mangguo.png',
-			name:'芒果旅游',
+			appid:'20100',
+			icon:'tool.png',
+			name:'网络工具',
 			url:'http://www.free163.com/',
-			sonMenu:"[]",
+			sonMenu:"[{"+
+				"appid:'20101',"+
+				"icon:'tool.png',"+
+				"enname:'doudizhu',"+
+				"name:'全球超级PING',"+
+				"url:'https://ping.chinaz.com/',"+
+				"asc :1"+
+			"},{"+
+				"appid:'20102',"+
+				"icon:'tool.png',"+
+				"enname:'doudizhu',"+
+				"name:'IP地址查询',"+
+				"url:'http://ip.tool.chinaz.com/',"+
+				"asc :2"+
+			"},{"+
+				"appid:'20103',"+
+				"icon:'tool.png',"+
+				"enname:'doudizhu',"+
+				"name:'域名备案查询',"+
+				"url:'http://icp.chinaz.com/',"+
+				"asc :3"+
+			"},{"+
+				"appid:'20104',"+
+				"icon:'tool.png',"+
+				"enname:'doudizhu',"+
+				"name:'百度翻译',"+
+				"url:'https://fanyi.baidu.com/',"+
+				"asc :4"+
+			"},{"+
+				"appid:'20105',"+
+				"icon:'tool.png',"+
+				"enname:'doudizhu',"+
+				"name:'在线弹钢琴',"+
+				"url:'https://www.autopiano.cn/',"+
+				"asc :5"+
+			"}]",
 			asc :1
 		},
 		'tuanmap':{
