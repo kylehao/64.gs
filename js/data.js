@@ -264,6 +264,20 @@
 				"name:'网址444.info(Github)',"+
 				"url:'http://444.info/',"+
 				"asc :6"+
+			"},{"+
+				"appid:'10407',"+
+				"icon:'home.png',"+
+				"enname:'doudizhu',"+
+				"name:'桌面64.gs(Github)',"+
+				"url:'http://444.info/',"+
+				"asc :7"+
+			"},{"+
+				"appid:'10408',"+
+				"icon:'home.png',"+
+				"enname:'doudizhu',"+
+				"name:'桌面4y.gs(Github)',"+
+				"url:'http://444.info/',"+
+				"asc :8"+
 			"}]",
 			asc :4
 		},
