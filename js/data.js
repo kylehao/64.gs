@@ -319,7 +319,7 @@
 				"icon:'pictures.gif',"+
 				"enname:'doudizhu',"+
 				"name:'清纯相册(Github)',"+
-				"url:'http://660000.xyz',"+
+				"url:'http://772222.xyz',"+
 				"asc :5"+
 			"},{"+
 				"appid:'10506',"+
