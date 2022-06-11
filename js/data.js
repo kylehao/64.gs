@@ -269,14 +269,14 @@
 				"icon:'home.png',"+
 				"enname:'doudizhu',"+
 				"name:'桌面64.gs(Github)',"+
-				"url:'http://444.info/',"+
+				"url:'http://64.gs',"+
 				"asc :7"+
 			"},{"+
 				"appid:'10408',"+
 				"icon:'home.png',"+
 				"enname:'doudizhu',"+
 				"name:'桌面4y.gs(Github)',"+
-				"url:'http://444.info/',"+
+				"url:'http://4y.gs',"+
 				"asc :8"+
 			"}]",
 			asc :4
@@ -314,6 +314,20 @@
 				"name:'图床(free.fr)',"+
 				"url:'https://pic.cloud.eu.org/',"+
 				"asc :4"+
+			"},{"+
+				"appid:'10505',"+
+				"icon:'pictures.gif',"+
+				"enname:'doudizhu',"+
+				"name:'清纯相册(Github)',"+
+				"url:'http://660000.xyz',"+
+				"asc :5"+
+			"},{"+
+				"appid:'10506',"+
+				"icon:'pictures.gif',"+
+				"enname:'doudizhu',"+
+				"name:'性感相册(Github)',"+
+				"url:'http://113333.xyz',"+
+				"asc :6"+
 			"}]",
 			asc:5
 		},
@@ -327,7 +341,7 @@
 				"'icon':'lxyy.gif',"+
 				"'name':'odj.cc(Github)',"+
 				"'enname':'fastsearch',"+
-				"'url':'http://pc.odj.cc/',"+
+				"'url':'http://odj.cc/',"+
 				"'asc' :1"+
 			"},{"+
 				"appid:'10602',"+
@@ -343,6 +357,13 @@
 				"name:'音乐导航yyy.ink(香港)',"+
 				"url:'http://yyy.ink/',"+
 				"asc :3"+
+			"},{"+
+				"appid:'10604',"+
+				"icon:'lxyy.gif',"+
+				"enname:'doudizhu',"+
+				"name:'音乐mp4.run(香港)',"+
+				"url:'http://yyy.ink/',"+
+				"asc :4"+
 			"}]",
 			asc:6
 		},
