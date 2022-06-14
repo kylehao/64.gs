@@ -278,6 +278,20 @@
 				"name:'桌面4y.gs(Github)',"+
 				"url:'http://4y.gs',"+
 				"asc :8"+
+			"},{"+
+				"appid:'10409',"+
+				"icon:'home.png',"+
+				"enname:'doudizhu',"+
+				"name:'桌面ffff.cool(CFpages)',"+
+				"url:'http://www.ffff.cool',"+
+				"asc :9"+
+			"},{"+
+				"appid:'10410',"+
+				"icon:'home.png',"+
+				"enname:'doudizhu',"+
+				"name:'桌面999999.ltd(Github)',"+
+				"url:'http://999999.ltd',"+
+				"asc :10"+
 			"}]",
 			asc :4
 		},
