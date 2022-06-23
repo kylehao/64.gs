@@ -49,12 +49,12 @@
 			sonMenu:"[{"+
 				"'appid':'10101',"+
 				"'icon':'computer.gif',"+
-				"'name':'Onemanager(香港)',"+
+				"'name':'Cloud.2345.ltd(香港)',"+
 				"'url':'http://cloud.2345.ltd'"+
 			"},{"+
 				"appid:'10102',"+
 				"icon:'computer.gif',"+
-				"name:'Sharelist(香港)',"+
+				"name:'Pan.2345.ltd(香港)',"+
 				"url:'http://pan.2345.ltd'"+
 			"},{"+
 				"appid:'10103',"+
@@ -74,27 +74,27 @@
 			"},{"+
 				"appid:'10106',"+
 				"icon:'computer.gif',"+
-				"name:'Onemanager(Vercel)',"+
+				"name:'Vercel',"+
 				"url:'https://vercel.444.info/'"+
 			"},{"+
 				"appid:'10107',"+
 				"icon:'computer.gif',"+
-				"name:'Onemanager(CF)',"+
+				"name:'CF Workers',"+
 				"url:'https://yun.64.gs/'"+
 			"},{"+
 				"appid:'10108',"+
 				"icon:'computer.gif',"+
-				"name:'Onemanager(Glitch)',"+
+				"name:'Glitch',"+
 				"url:'http://pan5.444.info/'"+
 			"},{"+
 				"appid:'10109',"+
 				"icon:'computer.gif',"+
-				"name:'Onemanager(Repl.it)',"+
+				"name:'Repl.it',"+
 				"url:'http://repl.444.info/'"+
 			"},{"+
 				"appid:'10110',"+
 				"icon:'computer.gif',"+
-				"name:'Sharelist(Railway)',"+
+				"name:'Railway',"+
 				"url:'https://railway.444.info/'"+
 			"},{"+
 				"appid:'10111',"+
@@ -303,7 +303,7 @@
 			sonMenu:"[{"+
 				"'appid':'10501',"+
 				"'icon':'pictures.gif',"+
-				"'name':'清纯唯美(Github)',"+
+				"'name':'清纯660000.xyz',"+
 				"'enname':'fastsearch',"+
 				"'url':'http://660000.xyz/',"+
 				"'asc' :1"+
@@ -311,7 +311,7 @@
 				"appid:'10502',"+
 				"icon:'pictures.gif',"+
 				"enname:'doudizhu',"+
-				"name:'清纯(Github)',"+
+				"name:'清纯332222.xyz',"+
 				"url:'http://332222.xyz/',"+
 				"asc :2"+
 			"},{"+
@@ -332,14 +332,14 @@
 				"appid:'10505',"+
 				"icon:'pictures.gif',"+
 				"enname:'doudizhu',"+
-				"name:'清纯相册(Github)',"+
+				"name:'清纯772222.xyz',"+
 				"url:'http://772222.xyz',"+
 				"asc :5"+
 			"},{"+
 				"appid:'10506',"+
 				"icon:'pictures.gif',"+
 				"enname:'doudizhu',"+
-				"name:'性感相册(Github)',"+
+				"name:'性感113333.xyz',"+
 				"url:'http://113333.xyz',"+
 				"asc :6"+
 			"}]",
